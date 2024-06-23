@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    kpop_lottery_enabled: "Enable K-pop Lottery plugin"
+    kpop_lottery_duration: "Duration of the lottery in days"
+    kpop_lottery_min_posts: "Minimum number of posts required for a valid lottery"
