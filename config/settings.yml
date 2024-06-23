@@ -1,0 +1,10 @@
+plugins:
+  kpop_lottery_enabled:
+    default: true
+    client: true
+  kpop_lottery_duration:
+    default: 7
+    client: true
+  kpop_lottery_min_posts:
+    default: 10
+    client: true
