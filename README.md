@@ -1,2 +1,0 @@
-# discourse-kpop-lottery
-test
